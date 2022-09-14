@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/vikram-y-075b9444/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,8 +31,8 @@ About Me :
 
 I am a Aspired Data Scientist and  Full Stack QA(Past) and  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India and located in USA.
 
-- :telescope: I’m working as a Senior Software Engineer and contributing to Data Analysis and also contributing to Python Automation.
-- :seedling: Exploring Technical Content Writing and exploring new tech.
+- :telescope: I’m working as a Senior Software Engineer and contributing to Data Analysis and also to Python Automation.
+- :seedling: Exploring Technical Content Writing and  new tech.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, and spending more time in Python and and exploring Data Analysis 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vikram-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-y-075b9444/)
 _________   
